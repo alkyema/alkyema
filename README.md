@@ -65,7 +65,6 @@ Let’s build something awesome together!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alkyema&show_icons=true&theme=blue_navy&hide_border=false" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkyema&theme=blue_navy&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkyema&layout=compact&theme=blue_navy&hide_border=false" height="150"/>
 </div>
 
